@@ -14,32 +14,46 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🕹️ About Me
+## 🕹️ Player Profile
 
-```csharp
-public class Apoorv : UnityDeveloper
-{
-    public string   Name        = "Apoorv Goyal";
-    public string   Location    = "Bhopal, M.P., India";
-    public string   Degree      = "B.Tech CSE (Gaming Technology) @ VIT Bhopal";
-    public string   Batch       = "Sept 2023 - May 2027";
+<div align="center">
 
-    public string[] CurrentlyBuilding = {
-        "VROOM - Endless arcade survival with procedural city generation",
-        "Polishing FPS Shooter with NavMesh AI & level design"
-    };
-
-    public string[] Strengths = {
-        "Modular game systems & ScriptableObjects",
-        "FSM AI design - patrol -> chase -> attack -> retreat",
-        "2D, 3D & AR game experiences in Unity 6000",
-        "Computer Vision & Data Analytics (YOLOv8, Python)"
-    };
-
-    public string   Email            = "apoorvgoyal31@gmail.com";
-    public bool     OpenToCollaborate = true;
-}
 ```
+╔══════════════════════════════════════════════════════════════╗
+║                  ⚔️  PLAYER CARD  ⚔️                         ║
+╠══════════════════════════════════════════════════════════════╣
+║  NAME        │  Apoorv Goyal                                 ║
+║  CLASS       │  Unity Game Developer                         ║
+║  GUILD       │  VIT Bhopal — CSE (Gaming Technology)         ║
+║  LOCATION    │  Bhopal, M.P., India  🇮🇳                      ║
+║  SEASON      │  2023 - 2027                                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                     📊 STATS                                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  ⚙️  Game Systems     ████████████████████  LVL 8            ║
+║  🤖  AI / FSM Design  ████████████████░░░░  LVL 7            ║
+║  🎨  3D Art (Blender) ██████████████░░░░░░  LVL 6            ║
+║  🐍  Python / CV      ████████████░░░░░░░░  LVL 5            ║
+║  🌐  Web Dev          ██████████░░░░░░░░░░  LVL 4            ║
+╠══════════════════════════════════════════════════════════════╣
+║                  ⚡ ACTIVE QUESTS                            ║
+╠══════════════════════════════════════════════════════════════╣
+║  🚗  VROOM  →  Procedural arcade city survival game          ║
+║  🔫  FPS    →  NavMesh AI + multi-level polish               ║
+╠══════════════════════════════════════════════════════════════╣
+║                  🏆 SPECIAL ABILITIES                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  ✦  Modular game architecture & ScriptableObjects            ║
+║  ✦  FSM AI  — patrol -> chase -> attack -> retreat           ║
+║  ✦  2D, 3D & AR experiences in Unity 6000                    ║
+║  ✦  Computer Vision pipelines  (YOLOv8 + OpenCV)            ║
+╠══════════════════════════════════════════════════════════════╣
+║  STATUS  │  🟢 Open to Collaborate                           ║
+║  CONTACT │  apoorvgoyal31@gmail.com                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
