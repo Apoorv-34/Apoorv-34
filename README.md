@@ -18,40 +18,7 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                  ⚔️  PLAYER CARD  ⚔️                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  NAME        │  Apoorv Goyal                                 ║
-║  CLASS       │  Unity Game Developer                         ║
-║  GUILD       │  VIT Bhopal — CSE (Gaming Technology)         ║
-║  LOCATION    │  Bhopal, M.P., India  🇮🇳                      ║
-║  SEASON      │  2023 - 2027                                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                     📊 STATS                                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  ⚙️  Game Systems     ████████████████████  LVL 8            ║
-║  🤖  AI / FSM Design  ████████████████░░░░  LVL 7            ║
-║  🎨  3D Art (Blender) ██████████████░░░░░░  LVL 6            ║
-║  🐍  Python / CV      ████████████░░░░░░░░  LVL 5            ║
-║  🌐  Web Dev          ██████████░░░░░░░░░░  LVL 4            ║
-╠══════════════════════════════════════════════════════════════╣
-║                  ⚡ ACTIVE QUESTS                            ║
-╠══════════════════════════════════════════════════════════════╣
-║  🚗  VROOM  →  Procedural arcade city survival game          ║
-║  🔫  FPS    →  NavMesh AI + multi-level polish               ║
-╠══════════════════════════════════════════════════════════════╣
-║                  🏆 SPECIAL ABILITIES                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  ✦  Modular game architecture & ScriptableObjects            ║
-║  ✦  FSM AI  — patrol -> chase -> attack -> retreat           ║
-║  ✦  2D, 3D & AR experiences in Unity 6000                    ║
-║  ✦  Computer Vision pipelines  (YOLOv8 + OpenCV)            ║
-╠══════════════════════════════════════════════════════════════╣
-║  STATUS  │  🟢 Open to Collaborate                           ║
-║  CONTACT │  apoorvgoyal31@gmail.com                          ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Player Card](https://raw.githubusercontent.com/Apoorv-34/Apoorv-34/main/player-card.svg)
 
 </div>
 
