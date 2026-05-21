@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🕹️ About Me
 
@@ -41,7 +41,7 @@ public class Apoorv : UnityDeveloper
 }
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -72,46 +72,68 @@ public class Apoorv : UnityDeveloper
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎮 Projects
 
 ### 🔫 [FPS Shooter](https://github.com/Apoorv-34/FPS-Game) — Unity 6000, C#, ShaderLab
 > Technical 3D FPS showcase built in Unity 6000. Custom player controllers, weapon mechanics, raycasting hit detection, and NavMesh-driven AI bots with a configurable **FSM (patrol → chase → attack → retreat)**. Stable **60fps** on mid-range hardware even in bot-heavy scenes.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="15%">
 
 ### 🧙 [Wizard's Trial](https://github.com/Apoorv-34/Wizards_trial) — Unity 6, C#, Blender
 > 3D objective-based adventure with a high-stakes **5-minute countdown**, multi-stage quests, and seamless teleportation across two handcrafted environments — a complex labyrinth and a low-poly village. Engineered a full game loop managing **10+ active triggers** and real-time UI inventory tracking.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="15%">
 
 ### 👧 [First Period Faces](https://github.com/Apoorv-34/First-period-faces) — Unity 6000, C#, Blender
 > Narrative 2D social simulation with **branching dialogue trees**, real-time NPC relationship tracking, and integrated skill-based minigames. Directed a polished **"2.5D" aesthetic** — 3D-rendered environments blended with hand-drawn 2D character art.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="15%">
 
 ### 🚗 VROOM *(In Progress)* — Unity, C#, Blender
 > Endless arcade survival game featuring **procedurally recycled tile-based city generation**, real-time police AI pursuit logic, and instant-death collision mechanics. Designed a top-down isometric camera with drift-based car controls and a bold yellow & black HUD inspired by road caution markings.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="15%">
 
 ### 🚧 [P.A.T.R.O.L — Pothole Detection](https://github.com/Apoorv-34/PATROL-Pothole-Detection) — Python, YOLOv8s, OpenCV
 > AI-powered road monitoring system built for the **EPICS program at VIT Bhopal**. Real-time pothole detection using a live camera feed with **ByteTrack multi-object tracking**, severity classification (MINOR / MODERATE / SEVERE), proximity audio alerts, GPS tagging, auto-capture, and CSV/Excel reporting. Trained on a **16,302-image dataset** via Roboflow.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="15%">
 
 ### 📊 [E-Commerce Analytics Dashboard](https://github.com/Apoorv-34/ecommerce-analytics) — Python, Pandas, Matplotlib
 > End-to-end business analytics project processing **793,000+ real transactions** (£17.3M revenue). Cleaned a 1M+ row dataset with pandas, performed EDA, built 4 revenue & market visualisations, and exported a formatted **Excel dashboard** for non-technical stakeholders.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💼 Experience
 
 **Co-Founder & CFO — Travelyatri** *(Jun 2024 – Dec 2025)*
 > Scaled a student-focused travel platform from **0 → 1,000+ users**. Designed analytics pipelines tracking DAU & retention, achieving a **15% improvement in user retention**. Led cross-functional teams of developers, designers & marketers in agile sprints.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorv-34&theme=tokyonight)](https://github.com/Apoorv-34)
+
+</div>
+
+<div align="center">
+
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apoorv-34&theme=tokyonight)](https://github.com/Apoorv-34)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apoorv-34&theme=tokyonight)](https://github.com/Apoorv-34)
+
+</div>
+
+<div align="center">
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apoorv-34&theme=tokyonight)](https://github.com/Apoorv-34)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Apoorv-34&theme=tokyonight&utcOffset=5.5)](https://github.com/Apoorv-34)
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -128,7 +150,7 @@ public class Apoorv : UnityDeveloper
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -138,7 +160,7 @@ public class Apoorv : UnityDeveloper
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🗺️ Contribution Activity
 
@@ -148,7 +170,31 @@ public class Apoorv : UnityDeveloper
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏅 Certifications
+
+<div align="center">
+
+<img src="https://github.com/Apoorv-34/Apoorv-34/blob/main/github-foundations.png" width="150"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/Apoorv-34/Apoorv-34/blob/main/azure-data-fundamentals.png" width="150"/>
+
+</div>
+
+> 📌 **GitHub Foundations** &nbsp;|&nbsp; **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🕹️ Contribution Snake
+
+<div align="center">
+
+![pacman contribution graph](https://raw.githubusercontent.com/Apoorv-34/Apoorv-34/output/pacman-contribution-graph.svg)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -160,7 +206,7 @@ public class Apoorv : UnityDeveloper
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
