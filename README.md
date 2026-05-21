@@ -22,16 +22,16 @@ public class Apoorv : UnityDeveloper
     public string   Name        = "Apoorv Goyal";
     public string   Location    = "Bhopal, M.P., India";
     public string   Degree      = "B.Tech CSE (Gaming Technology) @ VIT Bhopal";
-    public string   Batch       = "Sept 2023 – May 2027";
+    public string   Batch       = "Sept 2023 - May 2027";
 
     public string[] CurrentlyBuilding = {
-        "VROOM – Endless arcade survival with procedural city generation",
+        "VROOM - Endless arcade survival with procedural city generation",
         "Polishing FPS Shooter with NavMesh AI & level design"
     };
 
     public string[] Strengths = {
         "Modular game systems & ScriptableObjects",
-        "FSM AI design — patrol -> chase -> attack -> retreat",
+        "FSM AI design - patrol -> chase -> attack -> retreat",
         "2D, 3D & AR game experiences in Unity 6000",
         "Computer Vision & Data Analytics (YOLOv8, Python)"
     };
