@@ -31,7 +31,7 @@ public class Apoorv : UnityDeveloper
 
     public string[] Strengths = {
         "Modular game systems & ScriptableObjects",
-        "FSM AI design — patrol → chase → attack → retreat",
+        "FSM AI design — patrol -> chase -> attack -> retreat",
         "2D, 3D & AR game experiences in Unity 6000",
         "Computer Vision & Data Analytics (YOLOv8, Python)"
     };
