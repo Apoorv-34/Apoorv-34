@@ -1,0 +1,133 @@
+<svg width="100%" viewBox="0 0 680 620" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Apoorv Goyal - Player Card</title>
+  <desc>RPG-style player profile card for Apoorv Goyal, Unity Game Developer</desc>
+
+  <style>
+    * { font-family: 'Segoe UI', 'Courier New', monospace; }
+    .label { font-size: 11px; fill: #8b949e; }
+    .value { font-size: 12px; fill: #e6edf3; font-weight: 600; }
+    .heading { font-size: 11px; fill: #A78BFA; font-weight: 700; letter-spacing: 2px; }
+    .name-text { font-size: 22px; fill: #ffffff; font-weight: 700; }
+    .class-text { font-size: 12px; fill: #ddd6fe; }
+    .skill-label { font-size: 12px; fill: #c9d1d9; }
+    .quest-text { font-size: 11px; fill: #8b949e; }
+    .ability-text { font-size: 12px; fill: #c9d1d9; }
+    .lvl { font-size: 11px; fill: #A78BFA; font-weight: 700; }
+    .tag-text { font-size: 10px; fill: #8b949e; }
+  </style>
+
+  <!-- Outer card -->
+  <rect x="20" y="10" width="640" height="600" rx="10" fill="#0d1117" stroke="#7C3AED" stroke-width="1.5"/>
+
+  <!-- Corner decorations -->
+  <polyline points="20,40 20,10 50,10" fill="none" stroke="#A78BFA" stroke-width="2.5"/>
+  <polyline points="630,10 660,10 660,40" fill="none" stroke="#A78BFA" stroke-width="2.5"/>
+  <polyline points="20,580 20,610 50,610" fill="none" stroke="#A78BFA" stroke-width="2.5"/>
+  <polyline points="630,610 660,610 660,580" fill="none" stroke="#A78BFA" stroke-width="2.5"/>
+
+  <!-- Header band -->
+  <rect x="20" y="10" width="640" height="68" rx="10" fill="#7C3AED"/>
+  <rect x="20" y="58" width="640" height="20" fill="#7C3AED"/>
+
+  <!-- Header text -->
+  <text x="340" y="40" text-anchor="middle" class="name-text">APOORV GOYAL</text>
+  <text x="340" y="62" text-anchor="middle" class="class-text">Unity Game Developer  |  VIT Bhopal  |  CSE Gaming Technology</text>
+
+  <!-- INFO ROW -->
+  <rect x="36" y="88" width="608" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <text x="56" y="108" class="label">LOCATION</text>
+  <text x="56" y="126" class="value">Bhopal, M.P., India</text>
+  <line x1="204" y1="92" x2="204" y2="140" stroke="#30363d" stroke-width="1"/>
+
+  <text x="220" y="108" class="label">BATCH</text>
+  <text x="220" y="126" class="value">Sept 2023 - May 2027</text>
+  <line x1="368" y1="92" x2="368" y2="140" stroke="#30363d" stroke-width="1"/>
+
+  <text x="384" y="108" class="label">STATUS</text>
+  <circle cx="396" cy="122" r="5" fill="#238636"/>
+  <text x="408" y="126" class="value">Open to Collaborate</text>
+  <line x1="546" y1="92" x2="546" y2="140" stroke="#30363d" stroke-width="1"/>
+
+  <text x="558" y="108" class="label">EMAIL</text>
+  <text x="558" y="126" font-size="10px" fill="#e6edf3" font-weight="600">apoorvgoyal31</text>
+
+  <!-- STATS panel -->
+  <rect x="36" y="156" width="292" height="198" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="36" y="156" width="292" height="28" rx="6" fill="#21262d"/>
+  <rect x="36" y="172" width="292" height="12" fill="#21262d"/>
+  <text x="182" y="174" text-anchor="middle" class="heading">STATS</text>
+
+  <!-- Game Systems LVL 8 -->
+  <text x="52" y="202" class="skill-label">Game Systems</text>
+  <rect x="170" y="192" width="120" height="9" rx="3" fill="#21262d"/>
+  <rect x="170" y="192" width="96" height="9" rx="3" fill="#7C3AED"/>
+  <text x="297" y="201" class="lvl">LVL 8</text>
+
+  <!-- AI / FSM LVL 7 -->
+  <text x="52" y="228" class="skill-label">AI / FSM Design</text>
+  <rect x="170" y="218" width="120" height="9" rx="3" fill="#21262d"/>
+  <rect x="170" y="218" width="84" height="9" rx="3" fill="#7C3AED"/>
+  <text x="297" y="227" class="lvl">LVL 7</text>
+
+  <!-- 3D Art LVL 6 -->
+  <text x="52" y="254" class="skill-label">3D Art (Blender)</text>
+  <rect x="170" y="244" width="120" height="9" rx="3" fill="#21262d"/>
+  <rect x="170" y="244" width="72" height="9" rx="3" fill="#A78BFA"/>
+  <text x="297" y="253" class="lvl">LVL 6</text>
+
+  <!-- Python LVL 5 -->
+  <text x="52" y="280" class="skill-label">Python / CV</text>
+  <rect x="170" y="270" width="120" height="9" rx="3" fill="#21262d"/>
+  <rect x="170" y="270" width="60" height="9" rx="3" fill="#A78BFA"/>
+  <text x="297" y="279" class="lvl">LVL 5</text>
+
+  <!-- Web Dev LVL 4 -->
+  <text x="52" y="306" class="skill-label">Web Dev</text>
+  <rect x="170" y="296" width="120" height="9" rx="3" fill="#21262d"/>
+  <rect x="170" y="296" width="48" height="9" rx="3" fill="#30363d"/>
+  <text x="297" y="305" class="lvl">LVL 4</text>
+
+  <!-- SPECIAL ABILITIES panel -->
+  <rect x="344" y="156" width="300" height="198" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="344" y="156" width="300" height="28" rx="6" fill="#21262d"/>
+  <rect x="344" y="172" width="300" height="12" fill="#21262d"/>
+  <text x="494" y="174" text-anchor="middle" class="heading">SPECIAL ABILITIES</text>
+
+  <text x="360" y="202" class="ability-text">+ Modular game architecture</text>
+  <text x="360" y="220" class="ability-text">  &amp; ScriptableObjects</text>
+  <text x="360" y="246" class="ability-text">+ FSM AI: patrol -&gt; chase -&gt;</text>
+  <text x="360" y="264" class="ability-text">  attack -&gt; retreat</text>
+  <text x="360" y="290" class="ability-text">+ 2D, 3D &amp; AR in Unity 6000</text>
+  <text x="360" y="316" class="ability-text">+ YOLOv8 Computer Vision</text>
+  <text x="360" y="340" class="ability-text">+ Data Analytics (Pandas)</text>
+
+  <!-- ACTIVE QUESTS panel -->
+  <rect x="36" y="366" width="608" height="86" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="36" y="366" width="608" height="28" rx="6" fill="#21262d"/>
+  <rect x="36" y="382" width="608" height="12" fill="#21262d"/>
+  <text x="340" y="384" text-anchor="middle" class="heading">ACTIVE QUESTS</text>
+
+  <rect x="52" y="402" width="86" height="16" rx="3" fill="#1f2937"/>
+  <text x="58" y="414" font-size="10px" fill="#A78BFA" font-weight="700">IN PROGRESS</text>
+  <text x="148" y="414" font-size="12px" fill="#e6edf3" font-weight="600">  VROOM</text>
+  <text x="222" y="414" class="quest-text">  Endless arcade survival w/ procedural city generation</text>
+
+  <rect x="52" y="424" width="86" height="16" rx="3" fill="#1f2937"/>
+  <text x="58" y="436" font-size="10px" fill="#A78BFA" font-weight="700">IN PROGRESS</text>
+  <text x="148" y="436" font-size="12px" fill="#e6edf3" font-weight="600">  FPS SHOOTER</text>
+  <text x="258" y="436" class="quest-text">  NavMesh AI polish + multi-level environment design</text>
+
+  <!-- EXPERIENCE panel -->
+  <rect x="36" y="464" width="608" height="76" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="36" y="464" width="608" height="28" rx="6" fill="#21262d"/>
+  <rect x="36" y="480" width="608" height="12" fill="#21262d"/>
+  <text x="340" y="482" text-anchor="middle" class="heading">EXPERIENCE</text>
+
+  <text x="52" y="508" font-size="13px" fill="#e6edf3" font-weight="600">Co-Founder &amp; CFO — Travelyatri</text>
+  <text x="52" y="526" class="quest-text">Scaled 0 -&gt; 1,000+ users  |  +15% user retention  |  Jun 2024 - Dec 2025</text>
+
+  <!-- Footer tag -->
+  <text x="340" y="570" text-anchor="middle" class="tag-text">github.com/Apoorv-34  |  B.Tech CSE Gaming Technology  |  VIT Bhopal 2027</text>
+
+</svg>
